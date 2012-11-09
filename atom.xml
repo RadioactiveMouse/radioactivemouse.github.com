@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Encoded Musings]]></title>
   <link href="http://RadioactiveMouse.github.com/atom.xml" rel="self"/>
   <link href="http://RadioactiveMouse.github.com/"/>
-  <updated>2012-11-09T21:45:10+00:00</updated>
+  <updated>2012-11-09T22:07:08+00:00</updated>
   <id>http://RadioactiveMouse.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Tom Townsend]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress on the Pi]]></title>
+    <link href="http://RadioactiveMouse.github.com/blog/2012/11/09/octopress-on-the-pi/"/>
+    <updated>2012-11-09T22:02:00+00:00</updated>
+    <id>http://RadioactiveMouse.github.com/blog/2012/11/09/octopress-on-the-pi</id>
+    <content type="html"><![CDATA[<h1>Octopress on the Raspberry Pi</h1>
+
+<p>Octopress on the Raspberry Pi isn&#8217;t too hard ti install but ensure you are working on the correct branch before pushing.</p>
+
+<p>You&#8217;ll need:</p>
+
+<ul>
+<li>Ruby</li>
+<li>Ruby-dev</li>
+<li>Git</li>
+</ul>
+
+
+<p>Also ensure git is set up properly as the rake jobs don&#8217;t error particularly well&#8230;.</p>
+]]></content>
+  </entry>
   
 </feed>
