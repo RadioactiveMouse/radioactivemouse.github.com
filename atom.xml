@@ -4,7 +4,7 @@
   <title><![CDATA[Encoded Musings]]></title>
   <link href="http://RadioactiveMouse.github.com/atom.xml" rel="self"/>
   <link href="http://RadioactiveMouse.github.com/"/>
-  <updated>2012-11-09T22:07:08+00:00</updated>
+  <updated>2012-11-10T10:34:39+00:00</updated>
   <id>http://RadioactiveMouse.github.com/</id>
   <author>
     <name><![CDATA[Tom Townsend]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Setting up Octopress]]></title>
+    <link href="http://RadioactiveMouse.github.com/blog/2012/11/10/setting-up-octopress/"/>
+    <updated>2012-11-10T10:25:00+00:00</updated>
+    <id>http://RadioactiveMouse.github.com/blog/2012/11/10/setting-up-octopress</id>
+    <content type="html"><![CDATA[<p>When setting up Octopress I found a lot of the setup a little awkward to get my head around. Maybe this is just a little inexperience but this [post] (http://learnaholic.me/2012/10/10/deploying-octopress-to-github-pages-and-setting-custom-subdomain-cname/) made it a lot easier to understand and came with instruction on how to setup up the CNAME record.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress on the Pi]]></title>
