@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Encoded Musings]]></title>
-  <link href="http://RadioactiveMouse.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: raspberry pi | Encoded Musings]]></title>
+  <link href="http://RadioactiveMouse.github.com/blog/categories/raspberry-pi/atom.xml" rel="self"/>
   <link href="http://RadioactiveMouse.github.com/"/>
   <updated>2012-11-10T14:47:23+00:00</updated>
   <id>http://RadioactiveMouse.github.com/</id>
@@ -44,38 +44,7 @@
 
 <p>I also create .screenrc and .vimrc files early on in order to configure the behaviour of this software.</p>
 
-<p>Overall there aren&#8217;t too many other programs needed to get started using the Raspberry Pi as a tiny development server. My current setup is based around my use of Panic&#8217;s excellent Prompt SSH client on the iPad. I intend to use this setup up to create and run Go programs including the Riak library which is the focus of my dissertation.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Setting up Octopress]]></title>
-    <link href="http://RadioactiveMouse.github.com/blog/2012/11/10/setting-up-octopress/"/>
-    <updated>2012-11-10T10:25:00+00:00</updated>
-    <id>http://RadioactiveMouse.github.com/blog/2012/11/10/setting-up-octopress</id>
-    <content type="html"><![CDATA[<p>When setting up Octopress I found a lot of the setup a little awkward to get my head around. Maybe this is just a little inexperience but this [post] (http://learnaholic.me/2012/10/10/deploying-octopress-to-github-pages-and-setting-custom-subdomain-cname/) made it a lot easier to understand and came with instruction on how to setup up the CNAME record.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress on the Pi]]></title>
-    <link href="http://RadioactiveMouse.github.com/blog/2012/11/09/octopress-on-the-pi/"/>
-    <updated>2012-11-09T22:02:00+00:00</updated>
-    <id>http://RadioactiveMouse.github.com/blog/2012/11/09/octopress-on-the-pi</id>
-    <content type="html"><![CDATA[<h1>Octopress on the Raspberry Pi</h1>
-
-<p>Octopress on the Raspberry Pi isn&#8217;t too hard ti install but ensure you are working on the correct branch before pushing.</p>
-
-<p>You&#8217;ll need:</p>
-
-<ul>
-<li>Ruby</li>
-<li>Ruby-dev</li>
-<li>Git</li>
-</ul>
-
-
-<p>Also ensure git is set up properly as the rake jobs don&#8217;t error particularly well&#8230;.</p>
+<p>Overall there aren't too many other programs needed to get started using the Raspberry Pi as a tiny development server. My current setup is based around my use of Panic's excellent Prompt SSH client on the iPad. I intend to use this setup up to create and run Go programs including the Riak library which is the focus of my dissertation.</p>
 ]]></content>
   </entry>
   
