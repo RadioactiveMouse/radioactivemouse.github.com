@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Go | Encoded Musings]]></title>
+  <link href="http://RadioactiveMouse.github.com/blog/categories/go/atom.xml" rel="self"/>
+  <link href="http://RadioactiveMouse.github.com/"/>
+  <updated>2012-11-14T15:16:01+00:00</updated>
+  <id>http://RadioactiveMouse.github.com/</id>
+  <author>
+    <name><![CDATA[Tom Townsend]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Raspberry Pi GoSetup Tool]]></title>
+    <link href="http://RadioactiveMouse.github.com/blog/2012/11/14/raspberry-pi-gosetup-tool/"/>
+    <updated>2012-11-14T15:08:00+00:00</updated>
+    <id>http://RadioactiveMouse.github.com/blog/2012/11/14/raspberry-pi-gosetup-tool</id>
+    <content type="html"><![CDATA[<h2>GoSetup</h2>
+
+<p>After having to reinstall Go for a third time due to OS corruption I decided to create a tool that would automate the process of creating the directories and adding Go to the PATH.</p>
+
+<p>This has the following aims:</p>
+
+<ul>
+<li>Automate directory structure creation</li>
+<li>Allow structure to be namespaced in github format (github.com/RadioactiveMouse)</li>
+<li>Create an alias for easy GoDir traversal (GODIR = /gocode/src/github.com/RadioactiveMouse/)</li>
+<li>Append PATH with Go specific locations</li>
+</ul>
+
+
+<p>The idea of this is to make it almost foolproof to get go setup correctly on the Raspberry Pi.</p>
+]]></content>
+  </entry>
+  
+</feed>
