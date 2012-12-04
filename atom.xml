@@ -4,7 +4,7 @@
   <title><![CDATA[Encoded Musings]]></title>
   <link href="http://RadioactiveMouse.github.com/atom.xml" rel="self"/>
   <link href="http://RadioactiveMouse.github.com/"/>
-  <updated>2012-11-14T15:16:01+00:00</updated>
+  <updated>2012-12-04T21:54:15+00:00</updated>
   <id>http://RadioactiveMouse.github.com/</id>
   <author>
     <name><![CDATA[Tom Townsend]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Current And Future Setups]]></title>
+    <link href="http://RadioactiveMouse.github.com/blog/2012/12/04/current-and-future-setups/"/>
+    <updated>2012-12-04T19:18:00+00:00</updated>
+    <id>http://RadioactiveMouse.github.com/blog/2012/12/04/current-and-future-setups</id>
+    <content type="html"><![CDATA[<h2>Currently</h2>
+
+<p>My current setup is a collection of different ideas I&#8217;ve thought were a good idea at the time. My issue is that whilst they were a good fit for me then, they are less so now.  For example the Mac was bought when I spent the majority of time in my flat a alone which is no longer the case.</p>
+
+<p>What I use and for when:</p>
+
+<p>iPad 16GB with Prompt SSH client
+Raspberry Pi 256MB model B with Edimax Wifi adapter and Debian</p>
+
+<pre><code>Mostly used for Go hacking and Riak
+</code></pre>
+
+<p>iPad 16GB with Prompt SSH client
+University Server 24 Intel Xeon cores at 2.67Ghz running CentOS</p>
+
+<pre><code>University projects for machine learning and data mining tasks
+</code></pre>
+
+<p>2011 Mac Mini Server 2.0Ghz quad core i7 4GB RAM dual 1TB HDDs</p>
+
+<pre><code>Word Processing and occasional light web development work
+</code></pre>
+
+<h2>The Future</h2>
+
+<p>I am currently assessing my needs for the next machine for me. Should the status of the ARM Chrubuntu get better I would be sorely tempted by the latest Samsung Chromebook especially if the 3G modem is still operational.   This might only end up as a stop gap but I can&#8217;t rule it out.</p>
+
+<p>For a home machine I am very interested in the status of the Steam Linux Client. There are a few instances where being able to play a game on my home rig would be good. Unfortunately my Mac was bought for CPU power and therefore only utlises the very weak Intel HD 3000. A Ubuntu machine running a decent i5 might be a consideration in the near future especially if Haswell proves to be good enough to support medium graphics settings.</p>
+
+<p>In the longer run there is a large part of me giving serious thought to a Macbook Air if the rumours about serious gains in battery life are to be believed. Whilst generally underpowered for a lot of development,I I would find it very hard to go back to anything much heavier than an iPad  now I&#8217;ve used it for an extended period. Weight and a longer battery life makes it a hard decision to not consider the Air.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Raspberry Pi GoSetup Tool]]></title>
